@@ -40,8 +40,8 @@ I opened Creality Slicer and importing the 3D models I downloaded. I adjusted th
 - Transfer the generated G-code file to the printer either via USB or SD card.
 - Start the printing process and monitor the progress periodically, ensuring that the print adheres to the bed and that there are no issues such as filament jams or warping.
 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p1.jpeg" alt="Alt text" width="300" height="450">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p2.jpeg" alt="Alt text" width="300" height="450">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p3.gif" alt="Alt text" width="300" height="450">  
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p4.gif" alt="Alt text" width="300" height="450">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p5.gif" alt="Alt text" width="300" height="450">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p6.gif" alt="Alt text" width="300" height="450">  
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p1.jpeg" alt="Alt text" width="200" height="350">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p2.jpeg" alt="Alt text" width="200" height="350">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p3.gif" alt="Alt text" width="200" height="350">  
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p4.gif" alt="Alt text" width="200" height="350">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p5.gif" alt="Alt text" width="200" height="350">  <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/p6.gif" alt="Alt text" width="200" height="350">  
 
 ## Step 4: Gathering Electronics
 
@@ -59,9 +59,10 @@ inspecting all 3D printed robot parts to verify their completion and adherence t
 -  Assemble the printed components according to the assembly instructions provided by the InMoov project, using screws, nuts, and other fasteners as required
 -  Weld to minimize servo connection to Arduino.
 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/DonePrinting.jpeg" alt="Alt text" width="300" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/ro.jpeg" alt="Alt text" width="300" height="450"> 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/ro.gif" alt="Alt text" width="300" height="450">
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/S.jpeg" alt="Alt text" width="300" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/S1.jpeg" alt="Alt text" width="300" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/wD.jpg" alt="Alt text" width="300" height="450">
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/DonePrinting.jpeg" alt="Alt text" width="200" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/ro.jpeg" alt="Alt text" width="200" height="350"> 
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/ro.gif" alt="Alt text" width="200" height="350">
+
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/S.jpeg" alt="Alt text" width="200" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/S1.jpeg" alt="Alt text" width="200" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/wD.jpg" alt="Alt text" width="200" height="350">
 
 
 ## Step 6: Programming the servo Motors
@@ -76,15 +77,15 @@ I tested each servo motor individually to ensure they are responding correctly t
 
 I tested all 5 servos with Arduino and initialize them at 90 degrees.
 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Smm.jpg" alt="Alt text" width="400" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Servo.jpeg" alt="Alt text" width="300" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/smTest.gif" alt="Alt text" width="200" height="350">
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Smm.jpg" alt="Alt text" width="250" height="250"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Servo.jpeg" alt="Alt text" width="200" height="250"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/smTest.gif" alt="Alt text" width="250" height="250">
 
 ## Step 8: Fine-Tuning
 
 After initial testing, I fine-tuned the servo motor movements and mechanical assembly as needed to improve performance and accuracy. This may involve adjusting servo angles and mechanical linkages to achieve the desired hand movements.
 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/DoneParts.jpeg" alt="Alt text" width="500" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/FingersDone.jpeg" alt="Alt text" width="300" height="450"> 
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/DoneParts.jpeg" alt="Alt text" width="400" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/FingersDone.jpeg" alt="Alt text" width="200" height="350"> 
 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Servo%20and%20forearm.jpeg" alt="Alt text" width="400" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/HandDoneOnly.jpeg" alt="Alt text" width="400" height="450"> 
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Servo%20and%20forearm.jpeg" alt="Alt text" width="300" height="350"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/HandDoneOnly.jpeg" alt="Alt text" width="300" height="350"> 
 
 ## Step 9: Integrating with MIT App Inventor
 
@@ -438,9 +439,9 @@ Test the integration by running the MIT App Inventor application on your mobile 
 
 I performed comprehensive testing of the entire system, including mechanical movement, electronic control, and mobile app integration. I'm calibrating servo motors and adjusting code parameters for optimal performance.
 
-![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/TestingHandC.gif) ![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Servo%2520and%2520forearmD.gif)
-![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/TestingD.gif) ![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/TestingD1.gif) 
-<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/base2.jpeg" alt="Alt text" width="500" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/base.jpeg" alt="Alt text" width="500" height="450">
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/TestingHandC.gif" alt="Alt text" width="400" height="650"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Servo%2520and%2520forearmD.gif" alt="Alt text" width="400" height="650">
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/TestingD.gif" alt="Alt text" width="400" height="650"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/TestingD1.gif" alt="Alt text" width="400" height="650">
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/base2.jpeg" alt="Alt text" width="400" height="450"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/base.jpeg" alt="Alt text" width="400" height="450">
 
 ## Step 11: Documentation 
 
@@ -448,6 +449,5 @@ Finally, I documented the entire process, including assembly instructions, code 
 
 ![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/FinalD.gif)
 
-![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/finalHand.gif) ![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/ButtonShowcase.gif)
-
-![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Grip.gif) ![screen-gif](https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/GripCloser.gif)
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/finalHand.gif" alt="Alt text" width="400" height="650"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/ButtonShowcase.gif" alt="Alt text" width="400" height="650">
+<img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/Grip.gif" alt="Alt text" width="400" height="650"> <img src="https://github.com/ItsRawanMoha/InMoov_Hand_and_Forearm/blob/main/GripCloser.gif" alt="Alt text" width="400" height="650">
